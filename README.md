@@ -12,9 +12,11 @@ This guide explains how to run an HTML file with a JavaScript file from a local 
 Ensure your folder contains the following:
 
 ```
-project-folder/
+Softnio-Assignment-HTML-VersionL/
   |— index.html
   |— script.js
+  |— assets/
+        
 ```
 
 ### Example `index.html` File
