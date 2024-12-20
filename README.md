@@ -36,7 +36,7 @@ Softnio-Assignment-HTML-VersionL/
      ```
    
 
-#$# Steps to Run
+### Steps to Run
 
 1. **Locate the Folder**
    - Open the folder containing `index.html` and `script.js`.
