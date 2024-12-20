@@ -1,10 +1,10 @@
-# Running an HTML File with JavaScript from a Folder
+# To Run The Project The Following Guideline
 
 This guide explains how to run an HTML file with a JavaScript file from a local folder on your computer.
 
 ## Prerequisites
 
-1. A text editor or IDE (e.g., VS Code, Sublime Text, or Notepad++)
+1. A text editor or IDE (e.g., VS Code)
 2. A web browser (e.g., Google Chrome, Firefox, or Edge)
 
 ## Folder Structure
@@ -18,29 +18,25 @@ Softnio-Assignment-HTML-VersionL/
   |— assets/
         
 ```
+### Steps to Pull a Repository
 
-### Example `index.html` File
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sample HTML with JavaScript</title>
-</head>
-<body>
-  <h1>Hello, World!</h1>
-  <script src="script.js"></script>
-</body>
-</html>
-```
+1. **Clone the Repository**
+   - Open a terminal or command prompt.
+   - Navigate to the folder where you want to clone the repository.
+   - Run the following command:
+     ```bash
+     git clone <repository-url>
+     ```
+     
 
-### Example `script.js` File
-```javascript
-console.log('JavaScript is connected!');
-```
+2. **Navigate to the Cloned Repository**
+   - Move into the cloned repository's directory:
+     ```bash
+     cd <repository-folder>
+     ```
+   
 
-## Steps to Run
+#$# Steps to Run
 
 1. **Locate the Folder**
    - Open the folder containing `index.html` and `script.js`.
