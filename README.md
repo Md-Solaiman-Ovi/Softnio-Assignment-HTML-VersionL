@@ -4,7 +4,7 @@ This guide explains how to run the project from a local folder on your computer.
 
 ## Prerequisites
 
-1. A text editor or IDE (e.g., VS Code)
+1. IDE (e.g., VS Code)
 2. A web browser (e.g., Google Chrome, Firefox, or Edge)
 
 ## Folder Structure
