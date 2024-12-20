@@ -1,6 +1,6 @@
-# To Run The Project The Following Guideline
+# Guideline
 
-This guide explains how to run an HTML file with a JavaScript file from a local folder on your computer.
+This guide explains how to run the project from a local folder on your computer.
 
 ## Prerequisites
 
@@ -25,14 +25,14 @@ Softnio-Assignment-HTML-VersionL/
    - Navigate to the folder where you want to clone the repository.
    - Run the following command:
      ```bash
-     git clone <repository-url>
+     git clone git@github.com:Md-Solaiman-Ovi/Softnio-Assignment-HTML-VersionL.git
      ```
      
 
 2. **Navigate to the Cloned Repository**
    - Move into the cloned repository's directory:
      ```bash
-     cd <repository-folder>
+     cd Softnio-Assignment-HTML-VersionL
      ```
    
 
@@ -53,11 +53,4 @@ Softnio-Assignment-HTML-VersionL/
 
 4. **View the Output**
    - The HTML content will display in your browser.
-   - Open the browser's developer tools to view JavaScript output:
-     - Right-click on the page and select **"Inspect"** or **"Inspect Element"**.
-     - Go to the **"Console"** tab to see the JavaScript logs (e.g., `JavaScript is connected!`).
-
-## Additional Notes
-
-- Make sure the `script.js` file is correctly linked in your `index.html` file using the `<script>` tag.
-- If you encounter issues, check the browser's console for errors and ensure the file paths are correct.
+  
